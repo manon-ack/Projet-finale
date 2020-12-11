@@ -1,7 +1,7 @@
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * ACKERMANN Manon - BELLOD Vanina
+ * Projet final
+ * SPEED-CLICK
  */
 package projet.pkgfinal;
 
@@ -12,10 +12,10 @@ package projet.pkgfinal;
 public class ProjetFinal {
 
     /**
-     * @param args the command line arguments
+     * Speed-click main
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        
     }
     
 }
