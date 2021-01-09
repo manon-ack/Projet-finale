@@ -71,11 +71,11 @@ public class FenetredeJeu extends javax.swing.JFrame {
 
         score.add(message, new org.netbeans.lib.awtextra.AbsoluteConstraints(26, 50, 170, -1));
 
-        getContentPane().add(score, new org.netbeans.lib.awtextra.AbsoluteConstraints(1110, 260, 220, 160));
+        getContentPane().add(score, new org.netbeans.lib.awtextra.AbsoluteConstraints(1110, 380, 220, 160));
 
         chrono.setBackground(new java.awt.Color(204, 204, 255));
         chrono.setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
-        getContentPane().add(chrono, new org.netbeans.lib.awtextra.AbsoluteConstraints(1110, 140, 220, 90));
+        getContentPane().add(chrono, new org.netbeans.lib.awtextra.AbsoluteConstraints(1110, 210, 220, 90));
 
         setBounds(0, 0, 1361, 1065);
     }// </editor-fold>//GEN-END:initComponents
